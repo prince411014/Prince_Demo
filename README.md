@@ -1,3 +1,4 @@
 # Prince_Demo
 This is my Git repository.
-Author Prince Singh
+<br>
+Author Prince - Singh
